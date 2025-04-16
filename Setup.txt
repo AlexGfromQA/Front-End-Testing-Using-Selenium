@@ -1,0 +1,7 @@
+Set up:
+
+1. In this Project, I will being using C# (dotnet version TBC)
+2. The IDE chosen will be Primarily MS Studios 
+3. The testing framework will be Selenium(version TBC)
+4. The test runner: Nunit 
+
