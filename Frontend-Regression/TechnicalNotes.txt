@@ -1,0 +1,8 @@
+﻿Set up Method
+public void Setup()
+- Here we create in web browser instance 
+
+
+Tear Down Method 
+public void Teardown() 
+- Here we close the browser instance, driver.quit 

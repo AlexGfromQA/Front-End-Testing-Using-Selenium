@@ -1,0 +1,24 @@
+﻿Lets take this in steps.
+
+Repo and Github achieved [x] 
+
+
+1. Set Up Stage:
+
+
+2. Create Our First Program 
+
+
+3. Adding a level of functionality 
+
+
+
+4. Learning the best way to structure functionality 
+
+
+
+5. Reporting - How do we do it?
+
+
+
+6. Advanace CLI? Pipeline 
